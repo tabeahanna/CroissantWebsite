@@ -1,11 +1,12 @@
 body {
-  background: blanchedalmond;
+  background: rgb(255, 241, 219);
 }
 h1,
 h2,
 h3,
 p {
   text-align: center;
+  margin: 25px 50px;
 }
 img {
   display: block;
